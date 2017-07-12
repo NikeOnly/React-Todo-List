@@ -2,7 +2,7 @@ Todo list | React + Redux + Adaptive Cards
 ----------------------------------------------
 
 This is an example of basic task 'Todo list' using React/Redux stack.
-It is done with emulation of Multi Page Application (MPA) using react-router.
+It is done with emulation of Single Page Application (SPA) using react-router.
 For storing existing tasks is used local storage.
 
 The main part of this project is also focused on fully adaptive 
